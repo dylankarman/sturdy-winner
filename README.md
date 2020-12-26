@@ -1,1 +1,1 @@
-# sturdy-winner
+# more SQL practice
